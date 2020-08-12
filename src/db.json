@@ -1,0 +1,24 @@
+{
+    "products": [
+         
+            {
+                "id":1,
+                "prodctName": "moto G4 ",
+                "quntity":2,
+                "price":"rs.13000"
+            },
+            {
+                "id":2,
+                "prodctName":"Racld Gesyer",
+                "quntity":3,
+                "price":"Rs.14000"
+            },
+            {
+                "id":3,
+                "prodctName":"Delll Inspiron ",
+                "quntity":4,
+                "price":"Rs.40000"
+            }
+        ]
+        
+  }
